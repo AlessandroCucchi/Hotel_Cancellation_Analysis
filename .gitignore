@@ -1,0 +1,6 @@
+data/raw/*.csv
+data/processed/*.csv
+anaconda_projects/
+.ipynb_checkpoints/
+__pycache__/
+.venv/
