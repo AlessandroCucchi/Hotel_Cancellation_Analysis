@@ -22,7 +22,7 @@ Using two years of anonymised bookings from a resort and a city hotel in Portuga
 3. Can the cancellation risk be estimated on the day a booking is made?
 4. How can a hotel turn that risk into concrete actions?
 
-An interactive **[Tableau dashboard](https://public.tableau.com/views/Presentazione_Hotel_Cancellations/Dashboard1)** summarises the KPIs for a hotel manager.
+An interactive **[Tableau dashboard](https://public.tableau.com/views/HotelCancellationsRevenueatRisk/HotelCancellations)** summarises the KPIs for a hotel manager.
 
 <a id="key-metrics"></a>
 [![Key Metrics](images/h_metrics.svg)](images/h_metrics.svg)
