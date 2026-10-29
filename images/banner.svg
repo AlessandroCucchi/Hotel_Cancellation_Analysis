@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0f2744"/><stop offset="1" stop-color="#16365c"/></linearGradient></defs>
+  <rect width="1200" height="300" rx="16" fill="url(#g)"/>
+  <g opacity="0.10" stroke="#7fe3d6" stroke-width="2" fill="none">
+    <circle cx="1040" cy="150" r="120"/><circle cx="1040" cy="150" r="170"/><circle cx="1040" cy="150" r="220"/>
+  </g>
+  <g transform="translate(1040,150) scale(1.4) translate(-50,-50)" fill="none" stroke="#7fe3d6" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+  <path d="M8 78 H92"/>
+  <path d="M16 70 A34 34 0 0 1 84 70 Z"/>
+  <path d="M50 36 V26"/><path d="M42 24 H58"/>
+</g>
+  <text x="64" y="112" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="600" letter-spacing="3" fill="#7fe3d6">PYTHON · TABLEAU · MACHINE LEARNING</text>
+  <text x="64" y="170" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="52" font-weight="700" fill="#ffffff">Hotel Cancellation Analysis</text>
+  <text x="64" y="215" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" fill="#9fb3c8">Cancellation risk, seasonality and revenue at stake for two hotels</text>
+  <rect x="64" y="240" width="80" height="4" rx="2" fill="#7fe3d6"/>
+</svg>
