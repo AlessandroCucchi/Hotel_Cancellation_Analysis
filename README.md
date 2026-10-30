@@ -6,7 +6,7 @@
 ![Tableau](https://img.shields.io/badge/Tableau-0f2744?style=flat&logo=tableau&logoColor=7fe3d6)
 ![Jupyter](https://img.shields.io/badge/Jupyter-0f2744?style=flat&logo=jupyter&logoColor=7fe3d6)
 
-[Background](#project-background) · [Key Metrics](#key-metrics) · [Summary](#executive-summary) · [Insights](#insights-deep-dive) · [Recommendations](#recommendations) · [Dashboard](https://public.tableau.com/views/Presentazione_Hotel_Cancellations/Dashboard1) · [Repository](#repository-and-how-to-run)
+[Background](#project-background) · [Key Metrics](#key-metrics) · [Summary](#executive-summary) · [Insights](#insights-deep-dive) · [Recommendations](#recommendations) · [Dashboard](https://public.tableau.com/views/HotelCancellationsRevenueatRisk/HotelCancellations) · [Repository](#repository-and-how-to-run)
 
 > Analysis of **119,208 bookings** of a resort and a city hotel. **37%** of bookings are cancelled, cancellations peak in the **most expensive months**, and the risk grows **7x** with lead time. A model tested on 2017 bookings ranks cancellation risk with **ROC AUC 0.82**, turned into risk tiers and weekly forecasts a hotel can act on.
 
@@ -32,7 +32,7 @@ An interactive **[Tableau dashboard](https://public.tableau.com/views/HotelCance
 <a id="executive-summary"></a>
 [![Executive Summary](images/h_summary.svg)](images/h_summary.svg)
 
-[![Tableau dashboard](figures/dashboard.png)](https://public.tableau.com/views/Presentazione_Hotel_Cancellations/Dashboard1)
+[![Tableau dashboard](figures/dashboard.png)](https://public.tableau.com/views/HotelCancellationsRevenueatRisk/HotelCancellations)
 
 | Hotel | Bookings | Cancellation rate | Excl. group blocks* | ADR | Revenue of cancelled bookings |
 |---|---|---|---|---|---|
@@ -185,7 +185,7 @@ jupyter notebook                    # run notebooks 01 to 04 in order
 
 **Data:** [Hotel Booking Demand](https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand), from Antonio, Almeida & Nunes (2019), *Hotel booking demand datasets*, Data in Brief. 119,390 bookings of a resort and a city hotel in Portugal, arrivals from July 2015 to August 2017. Please check the source's terms of use before reusing the data.
 
-**Dashboard:** [Hotel Cancellations & Revenue at Risk](https://public.tableau.com/views/Presentazione_Hotel_Cancellations/Dashboard1) (Tableau Public). 2 bookings with an undefined market segment are excluded from the dashboard.
+**Dashboard:** [Hotel Cancellations & Revenue at Risk](https://public.tableau.com/views/HotelCancellationsRevenueatRisk/HotelCancellations) (Tableau Public). 2 bookings with an undefined market segment are excluded from the dashboard.
 
 ## Author
 
