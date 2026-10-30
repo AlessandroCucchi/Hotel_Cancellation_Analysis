@@ -45,7 +45,7 @@ An interactive **[Tableau dashboard](https://public.tableau.com/views/HotelCance
 
 - **Cancellations cost most when rooms are most expensive.** Resort prices rise 3.5x from January to August, and so do its cancellations (from 14.8% to 33–34%).
 - **The earlier the booking, the higher the risk.** From 9.6% for bookings made within a week of arrival to 67.7% for bookings made over a year ahead.
-- **A quarter of the City Hotel's cancellations comes from group blocks,** cancelled 99.4% of the time: group contracts are the first lever.
+- **38.8% of the City Hotel's cancellations comes from group blocks,** cancelled 99.4% of the time: group contracts are the first lever.
 - **The model concentrates the risk:** the 21% of bookings it rates high-risk are cancelled 81.8% of the time and hold 41% of the revenue lost.
 - **Committed guests cancel less:** direct bookings, repeat guests and guests with special requests cancel 2.2–2.6x less.
 
@@ -149,7 +149,7 @@ raw bookings ──► cleaning & checks ──► KPIs & seasonality ──► 
 
 1. **Act on risk tiers, not on single predictions.** Reminder emails for medium-risk bookings; reconfirmation calls, deposit requests and overbooking only for high-risk ones, where the model is most precise. Never cancel or reject a booking based on the score alone.
 2. **Plan overbooking on expected cancellations per date, recalibrated on recent bookings,** with extra attention to long-lead bookings and peak-season dates, when cancellations cost most.
-3. **Renegotiate group and tour-operator blocks.** They account for about a quarter of the City Hotel's cancellations: earlier release dates, smaller blocks or clearer penalties.
+3. **Renegotiate group and tour-operator blocks.** They account for about 38.8% of the City Hotel's cancellations: earlier release dates, smaller blocks or clearer penalties.
 4. **Grow committed bookings.** Direct bookings and repeat guests cancel 2.4–2.6x less: loyalty programmes and direct-booking incentives also reduce cancellation risk.
 
 **Limitations:** two hotels in Portugal only; anonymised data without booking IDs or market prices; the test period covers January–August 2017; revenue of cancelled bookings is an upper bound; the value of early action depends on assumptions (scenarios in notebook 04).
